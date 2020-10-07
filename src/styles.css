@@ -1,8 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~ngx-toastr/toastr";
+
+
 body {
   background-image: url('./assets/yellow-plastic-crosses-toe-ruled-field-playing-tic-tac-toe-blue_164357-1311.jpg');
   height: 100vh;
   width: 100vw;
   background-size: cover;
-
 }
